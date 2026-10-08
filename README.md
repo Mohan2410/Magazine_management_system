@@ -1,7 +1,6 @@
 # Magazine_management_system
 
 Final year diploma project (Magazine management system using PHP & MySQL)
-# Magazine Management System
 
 A web-based **Magazine Management System** developed to manage the
 submission, review, approval, and publication of college magazine articles.
